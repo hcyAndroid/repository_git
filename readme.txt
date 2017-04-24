@@ -1,2 +1,1 @@
-git init...
-hcy wyt
+helloworld
